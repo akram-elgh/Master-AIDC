@@ -3,11 +3,11 @@ function noyau = noyau(x, x1, choix)
   switch choix
       case 1
           % Noyau linéaire
-          c = 0.01; 
+          c = 0.05; 
           y = x' * x1 + c;
       case 2
           % Noyau polynomial
-          alpha = 0.05; % Valeur arbitraire pour alpha, vous pouvez ajuster selon vos besoins
+          alpha = 1; % Valeur arbitraire pour alpha, vous pouvez ajuster selon vos besoins
           c = 0.01; % Valeur arbitraire pour c, vous pouvez ajuster selon vos besoins
           d = 1.2; % Valeur arbitraire pour d, vous pouvez ajuster selon vos besoins
           y = (alpha .* (x' * x1) + c) .^ d;
