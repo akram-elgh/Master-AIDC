@@ -13,8 +13,8 @@ function noyau = noyau(x, x1, choix)
           y = (alpha .* (x' .* x1) + c) .^ d;
       case 3
           % Noyau gaussien
-          sigma = 0.2; 
-          % sigma = sqrt(var(x));
+        %   sigma = 6.7; 
+          sigma = sqrt(var(x));
           y = exp( -norm(x - x1) .^ 2 ./ (2 * sigma ^ 2));
       case 4
           % Noyau exponentiel
