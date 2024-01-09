@@ -1,0 +1,1 @@
+Les algorithmes de vision par ordinateur sont utilisés pour la détection d'objets, la reconnaissance de formes et la segmentation d'images.
