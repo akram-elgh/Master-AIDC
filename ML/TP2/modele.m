@@ -3,12 +3,12 @@ function fonction = modele(choice, x)
       case 1
           fonction = abs(x);
       case 2
-        %   x1 = x(:, 1);
-        %   x2 = x(:, 2);
-        %   x3 = x(:, 3);
-        %   for i = 1:length(x1)
-            fonction = 3 * norm(x) ^ 3 - 2 * norm(x) ^ 2 + 3 .* norm(x) + 3;
-        %   end  
+          x1 = x(:, 1);
+          x2 = x(:, 2);
+          x3 = x(:, 3);
+          for i = 1:length(x1)
+            fonction = 3 * norm(x1) ^ 3 - 2 * norm(x2) ^ 2 + 3 .* norm(x3) + 3;
+          end  
       case 3
           x1 = x(:, 1);
           x2 = x(:, 2); 
