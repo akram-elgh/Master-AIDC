@@ -8,8 +8,8 @@ function noyau = noyau(x, x1, choix)
       case 2
           % Noyau polynomial
           alpha = 1.5; % Valeur arbitraire pour alpha, vous pouvez ajuster selon vos besoins
-          c = 0.05; % Valeur arbitraire pour c, vous pouvez ajuster selon vos besoins
-          d = 1.2; % Valeur arbitraire pour d, vous pouvez ajuster selon vos besoins
+          c = 0.1; % Valeur arbitraire pour c, vous pouvez ajuster selon vos besoins
+          d = 2.7; % Valeur arbitraire pour d, vous pouvez ajuster selon vos besoins
           y = (alpha * (x' * x1) + c) .^ d;
       case 3
           % Noyau gaussien
