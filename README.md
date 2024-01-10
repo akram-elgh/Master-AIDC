@@ -1,6 +1,6 @@
-# Programme de Master en Intelligence Artificielle et Informatique Numérique
+# Programme de Master en Artificial Intelligence and Digital Computing
 
-Ce répertoire regroupe les travaux pratiques et projets des différents modules du Master en Intelligence Artificielle et Informatique Numérique (AIDC) de la Faculté des Sciences et Techniques de Beni Mellal. Nous espérons que vous le trouverez utile.
+Ce répertoire regroupe les travaux pratiques et projets des différents modules du Master en Artificial Intelligence and Digital Computing (AIDC) de la Faculté des Sciences et Techniques de Beni Mellal. Nous espérons que vous le trouverez utile.
 
 ## Structure du Répertoire :
 
