@@ -1,115 +1,159 @@
 Revenu,Experience,Education,Satisfaction,Secteur,Age
-60000,5,Bachelor,8.5,IT,32
-75000,8,Master,7.2,Finance,45
-50000,3,Secondaire,6.0,Ventes,28
-90000,9,Ph.D.,9.3,Recherche,38
-120000,11,Bachelor,8.8,Ingénierie,50
-95000,6,Master,7.5,IT,34
-70000,8,Secondaire,5.8,Ventes,42
-110000,7,Ph.D.,9.0,Recherche,29
-85000,10,Bachelor,8.2,Ingénierie,37
-80000,7,Master,7.7,Finance,46
-75000,5,Secondaire,6.5,Ventes,33
-82000,8,Bachelor,8.0,IT,30
-65000,6,Secondaire,6.2,Ventes,25
-100000,8,Master,8.0,Recherche,32
-130000,9,Bachelor,9.0,Ingénierie,48
-105000,8,Master,8.2,IT,36
-80000,6,Secondaire,6.0,Ventes,39
-120000,9,Ph.D.,9.2,Recherche,35
-90000,10,Bachelor,8.5,Ingénierie,40
-95000,7,Master,7.8,IT,42
-85000,5,Secondaire,6.3,Ventes,31
-115000,8,Bachelor,8.7,Recherche,34
-140000,12,Master,9.5,Ingénierie,52
-110000,8,Ph.D.,8.8,IT,44
-90000,5,Bachelor,8.3,Finance,33
-100000,7,Master,8.1,Recherche,40
-150000,10,Bachelor,9.2,Ingénierie,55
-120000,11,Master,8.4,IT,46
-105000,9,Ph.D.,8.9,Recherche,48
-85000,5,Secondaire,6.1,Ventes,27
-110000,8,Bachelor,8.6,Finance,37
-135000,10,Master,9.0,Ingénierie,50
-100000,8,Ph.D.,8.5,IT,42
-80000,6,Secondaire,5.9,Ventes,35
-95000,7,Bachelor,8.1,Finance,38
-125000,9,Master,8.3,Recherche,44
-98000,8,Ph.D.,8.7,IT,39
-75000,7,Secondaire,6.4,Ventes,26
-105000,8,Bachelor,8.5,Finance,41
-130000,9,Master,8.9,Ingénierie,47
-100000,7,Ph.D.,8.4,IT,40
-70000,5,Secondaire,5.7,Ventes,32
-85000,7,Bachelor,8.0,Finance,36
-115000,8,Master,8.2,Recherche,42
-92000,7,Ph.D.,8.6,IT,37
-65000,6,Secondaire,6.1,Ventes,24
-90000,8,Bachelor,8.3,Finance,43
-120000,9,Master,8.5,Ingénierie,45
-95000,7,Ph.D.,8.0,IT,35
-60000,5,Bachelor,8.5,IT,32
-75000,8,Master,7.2,Finance,45
-50000,3,Secondaire,6.0,Ventes,28
-90000,9,Ph.D.,9.3,Recherche,38
-120000,11,Bachelor,8.8,Ingénierie,50
-95000,6,Master,7.5,IT,34
-70000,8,Secondaire,5.8,Ventes,42
-110000,7,Ph.D.,9.0,Recherche,29
-85000,10,Bachelor,8.2,Ingénierie,37
-80000,7,Master,7.7,Finance,46
-75000,5,Secondaire,6.5,Ventes,33
-82000,8,Bachelor,8.0,IT,30
-65000,6,Secondaire,6.2,Ventes,25
-100000,8,Master,8.0,Recherche,32
-130000,9,Bachelor,9.0,Ingénierie,48
-105000,8,Master,8.2,IT,36
-80000,6,Secondaire,6.0,Ventes,39
-120000,9,Ph.D.,9.2,Recherche,35
-90000,10,Bachelor,8.5,Ingénierie,40
-95000,7,Master,7.8,IT,42
-85000,5,Secondaire,6.3,Ventes,31
-115000,8,Bachelor,8.7,Recherche,34
-140000,12,Master,9.5,Ingénierie,52
-110000,8,Ph.D.,8.8,IT,44
-90000,5,Bachelor,8.3,Finance,33
-100000,7,Master,8.1,Recherche,40
-150000,10,Bachelor,9.2,Ingénierie,55
-120000,11,Master,8.4,IT,46
-105000,9,Ph.D.,8.9,Recherche,48
-85000,5,Secondaire,6.1,Ventes,27
-110000,8,Bachelor,8.6,Finance,37
-135000,10,Master,9.0,Ingénierie,50
-100000,8,Ph.D.,8.5,IT,42
-80000,6,Secondaire,5.9,Ventes,35
-95000,7,Bachelor,8.1,Finance,38
-125000,9,Master,8.3,Recherche,44
-98000,8,Ph.D.,8.7,IT,39
-75000,7,Secondaire,6.4,Ventes,26
-105000,8,Bachelor,8.5,Finance,41
-130000,9,Master,8.9,Ingénierie,47
-100000,7,Ph.D.,8.4,IT,40
-70000,5,Secondaire,5.7,Ventes,32
-85000,7,Bachelor,8.0,Finance,36
-115000,8,Master,8.2,Recherche,42
-92000,7,Ph.D.,8.6,IT,37
-65000,6,Secondaire,6.1,Ventes,24
-90000,8,Bachelor,8.3,Finance,43
-120000,9,Master,8.5,Ingénierie,45
-95000,7,Ph.D.,8.0,IT,35
-70000,8,Secondaire,5.8,Ventes,39
-110000,7,Bachelor,8.7,Finance,41
-135000,10,Master,9.1,Ingénierie,49
-105000,9,Ph.D.,8.6,IT,43
-75000,7,Secondaire,6.3,Ventes,30
-95000,7,Bachelor,8.2,Finance,37
-125000,9,Master,8.4,Recherche,45
-100000,8,Ph.D.,8.8,IT,40
-70000,5,Secondaire,5.6,Ventes,33
-85000,7,Bachelor,7.9,Finance,35
-115000,8,Master,8.1,Recherche,41
-92000,7,Ph.D.,8.5,IT,38
-65000,6,Secondaire,6.0,Ventes,25
-90000,8,Bachelor,8.2,Finance,42
-120000,9,Master,8.4,Ingénierie,44
-95000,7,Ph.D.,7.9,IT,34
+48000.0,5.0,Secondaire,8.5,Ouvrier agricole,32.0
+60000.0,8.0,Bachelor,7.2,Secrétaire,45.0
+35000.0,3.0,Secondaire,6.0,Ouvrier agricole,28.0
+90000.0,9.0,Ph.D.,9.3,PDG,38.0
+110000.0,11.0,Master,8.8,Ingénieur agronome,50.0
+75000.0,6.0,Master,7.5,Employé administratif,34.0
+50000.0,8.0,Secondaire,5.8,Ouvrier agricole,42.0
+85000.0,7.0,Ph.D.,9.0,PDG,29.0
+80000.0,10.0,Bachelor,8.2,Ingénieur agronome,37.0
+75000.0,7.0,Master,7.7,Secrétaire,46.0
+70000.0,5.0,Secondaire,6.5,Ouvrier agricole,33.0
+77000.0,8.0,Bachelor,8.0,Employé administratif,30.0
+48000.0,6.0,Secondaire,6.2,Ouvrier agricole,25.0
+80000.0,8.0,Master,8.0,PDG,32.0
+95000.0,9.0,Bachelor,9.0,Ingénieur agronome,48.0
+88000.0,8.0,Master,8.2,Employé administratif,36.0
+60000.0,6.0,Secondaire,6.0,Ouvrier agricole,39.0
+92000.0,9.0,Ph.D.,9.2,PDG,35.0
+81000.0,10.0,Bachelor,8.5,Ingénieur agronome,40.0
+75000.0,7.0,Master,7.8,Employé administratif,42.0
+70000.0,5.0,Secondaire,6.3,Ouvrier agricole,31.0
+88000.0,8.0,Bachelor,8.7,Secrétaire,34.0
+120000.0,12.0,Master,9.5,PDG,52.0
+94000.0,8.0,Ph.D.,8.8,Ingénieur agronome,44.0
+70000.0,5.0,Bachelor,8.3,Secrétaire,33.0
+72000.0,7.0,Master,8.1,PDG,40.0
+110000.0,10.0,Bachelor,9.2,Ingénieur agronome,55.0
+87000.0,11.0,Master,8.4,Employé administratif,46.0
+84000.0,9.0,Ph.D.,8.9,PDG,48.0
+62000.0,5.0,Secondaire,6.1,Ouvrier agricole,27.0
+77000.0,8.0,Bachelor,8.6,Secrétaire,37.0
+108000.0,10.0,Master,9.0,Ingénieur agronome,50.0
+80000.0,8.0,Ph.D.,8.5,Employé administratif,42.0
+50000.0,6.0,Secondaire,5.9,Ouvrier agricole,35.0
+77000.0,7.0,Bachelor,8.1,Secrétaire,38.0
+103000.0,9.0,Master,8.3,PDG,44.0
+94000.0,8.0,Ph.D.,8.7,Employé administratif,39.0
+63000.0,7.0,Secondaire,6.4,Ouvrier agricole,26.0
+88000.0,8.0,Bachelor,8.5,Secrétaire,41.0
+113000.0,9.0,Master,8.9,Ingénieur agronome,47.0
+92000.0,7.0,Ph.D.,8.4,Employé administratif,40.0
+60000.0,5.0,Secondaire,5.7,Ouvrier agricole,32.0
+77000.0,7.0,Bachelor,8.0,Secrétaire,36.0
+110000.0,8.0,Master,8.2,PDG,42.0
+86000.0,7.0,Ph.D.,8.6,Employé administratif,37.0
+48000.0,6.0,Secondaire,6.1,Ouvrier agricole,24.0
+81000.0,8.0,Bachelor,8.3,Secrétaire,43.0
+114000.0,9.0,Master,8.5,Ingénieur agronome,45.0
+96000.0,7.0,Ph.D.,8.0,PDG,35.0
+65000.0,8.0,Secondaire,5.8,Ouvrier agricole,39.0
+83000.0,7.0,Bachelor,7.9,Secrétaire,42.0
+107000.0,10.0,Master,8.1,Ingénieur agronome,44.0
+83000.0,7.0,Ph.D.,8.5,PDG,40.0
+67000.0,5.0,Secondaire,5.6,Ouvrier agricole,33.0
+84000.0,7.0,Bachelor,7.9,Secrétaire,35.0
+115000.0,8.0,Master,8.1,Employé administratif,41.0
+96000.0,7.0,Ph.D.,8.5,PDG,38.0
+62000.0,6.0,Secondaire,6.0,Ouvrier agricole,25.0
+87000.0,8.0,Bachelor,8.2,Secrétaire,42.0
+120000.0,9.0,Master,8.4,Ingénieur agronome,44.0
+95000.0,7.0,Ph.D.,7.9,PDG,34.0
+70000.0,8.0,Secondaire,5.8,Ouvrier agricole,39.0
+105000.0,7.0,Bachelor,8.1,Secrétaire,38.0
+95000.0,8.0,Master,8.3,Employé administratif,44.0
+98000.0,8.0,Ph.D.,8.7,PDG,39.0
+75000.0,7.0,Secondaire,6.4,Ouvrier agricole,26.0
+106000.0,8.0,Bachelor,8.5,Secrétaire,41.0
+121000.0,9.0,Master,8.9,Ingénieur agronome,47.0
+103000.0,7.0,Ph.D.,8.4,PDG,40.0
+71000.0,5.0,Secondaire,5.7,Ouvrier agricole,32.0
+86000.0,7.0,Bachelor,8.0,Secrétaire,36.0
+118000.0,8.0,Master,8.2,Employé administratif,42.0
+94000.0,7.0,Ph.D.,8.6,PDG,37.0
+66000.0,6.0,Secondaire,6.1,Ouvrier agricole,24.0
+90000.0,8.0,Bachelor,8.3,Secrétaire,43.0
+111000.0,9.0,Master,8.5,Ingénieur agronome,45.0
+96000.0,7.0,Ph.D.,8.0,PDG,35.0
+75000.0,7.0,Secondaire,5.8,Ouvrier agricole,39.0
+94000.0,7.0,Bachelor,8.1,Secrétaire,38.0
+106000.0,9.0,Master,8.3,Ingénieur agronome,44.0
+103000.0,8.0,Ph.D.,8.7,PDG,39.0
+70000.0,5.0,Secondaire,6.4,Ouvrier agricole,26.0
+106000.0,8.0,Bachelor,8.5,Secrétaire,41.0
+121000.0,9.0,Master,8.9,Employé administratif,47.0
+103000.0,7.0,Ph.D.,8.4,PDG,40.0
+71000.0,5.0,Secondaire,5.7,Ouvrier agricole,32.0
+86000.0,7.0,Bachelor,8.0,Secrétaire,36.0
+118000.0,8.0,Master,8.2,Ingénieur agronome,42.0
+94000.0,7.0,Ph.D.,8.6,PDG,37.0
+66000.0,6.0,Secondaire,6.1,Ouvrier agricole,24.0
+90000.0,8.0,Bachelor,8.3,Secrétaire,43.0
+111000.0,9.0,Master,8.5,Employé administratif,45.0
+96000.0,7.0,Ph.D.,8.0,PDG,35.0
+48000.0,5.0,Secondaire,8.5,Ouvrier agricole,32.0
+60000.0,8.0,Bachelor,7.2,Secrétaire,45.0
+35000.0,3.0,Secondaire,6.0,Ouvrier agricole,28.0
+90000.0,9.0,Ph.D.,9.3,PDG,38.0
+110000.0,11.0,Master,8.8,Ingénieur agronome,50.0
+75000.0,6.0,Master,7.5,Employé administratif,34.0
+50000.0,8.0,Secondaire,5.8,Ouvrier agricole,42.0
+85000.0,7.0,Ph.D.,9.0,PDG,29.0
+80000.0,10.0,Bachelor,8.2,Ingénieur agronome,37.0
+75000.0,7.0,Master,7.7,Secrétaire,46.0
+70000.0,5.0,Secondaire,6.5,Ouvrier agricole,33.0
+77000.0,8.0,Bachelor,8.0,Employé administratif,30.0
+48000.0,6.0,Secondaire,6.2,Ouvrier agricole,25.0
+80000.0,8.0,Master,8.0,PDG,32.0
+95000.0,9.0,Bachelor,9.0,Ingénieur agronome,48.0
+88000.0,8.0,Master,8.2,Employé administratif,36.0
+60000.0,6.0,Secondaire,6.0,Ouvrier agricole,39.0
+92000.0,9.0,Ph.D.,9.2,PDG,35.0
+81000.0,10.0,Bachelor,8.5,Ingénieur agronome,40.0
+75000.0,7.0,Master,7.8,Employé administratif,42.0
+70000.0,5.0,Secondaire,6.3,Ouvrier agricole,31.0
+88000.0,8.0,Bachelor,8.7,Secrétaire,34.0
+120000.0,12.0,Master,9.5,PDG,52.0
+94000.0,8.0,Ph.D.,8.8,Ingénieur agronome,44.0
+70000.0,5.0,Bachelor,8.3,Secrétaire,33.0
+72000.0,7.0,Master,8.1,PDG,40.0
+110000.0,10.0,Bachelor,9.2,Ingénieur agronome,55.0
+87000.0,11.0,Master,8.4,Employé administratif,46.0
+84000.0,9.0,Ph.D.,8.9,PDG,48.0
+62000.0,5.0,Secondaire,6.1,Ouvrier agricole,27.0
+77000.0,8.0,Bachelor,8.6,Secrétaire,37.0
+108000.0,10.0,Master,9.0,Ingénieur agronome,50.0
+80000.0,8.0,Ph.D.,8.5,Employé administratif,42.0
+50000.0,6.0,Secondaire,5.9,Ouvrier agricole,35.0
+77000.0,7.0,Bachelor,8.1,Secrétaire,38.0
+103000.0,9.0,Master,8.3,PDG,44.0
+94000.0,8.0,Ph.D.,8.7,Employé administratif,39.0
+63000.0,7.0,Secondaire,6.4,Ouvrier agricole,26.0
+88000.0,8.0,Bachelor,8.5,Secrétaire,41.0
+113000.0,9.0,Master,8.9,Ingénieur agronome,47.0
+92000.0,7.0,Ph.D.,8.4,Employé administratif,40.0
+60000.0,5.0,Secondaire,5.7,Ouvrier agricole,32.0
+77000.0,7.0,Bachelor,8.0,Secrétaire,36.0
+110000.0,8.0,Master,8.2,PDG,42.0
+94000.0,7.0,Ph.D.,8.6,Ingénieur agronome,37.0
+48000.0,6.0,Secondaire,6.1,Ouvrier agricole,24.0
+77000.0,8.0,Bachelor,8.3,Secrétaire,43.0
+113000.0,9.0,Master,8.5,Ingénieur agronome,45.0
+94000.0,7.0,Ph.D.,8.0,Employé administratif,35.0
+75000.0,8.0,Secondaire,5.8,Ouvrier agricole,39.0
+108000.0,7.0,Bachelor,8.7,Secrétaire,41.0
+132000.0,10.0,Master,9.1,PDG,49.0
+103000.0,9.0,Ph.D.,8.6,Ingénieur agronome,43.0
+71000.0,7.0,Secondaire,6.3,Ouvrier agricole,30.0
+95000.0,7.0,Bachelor,8.2,Secrétaire,37.0
+120000.0,9.0,Master,8.4,Employé administratif,45.0
+98000.0,8.0,Ph.D.,8.8,PDG,40.0
+70000.0,5.0,Secondaire,5.6,Ouvrier agricole,33.0
+87000.0,7.0,Bachelor,7.9,Secrétaire,35.0
+113000.0,8.0,Master,8.1,Employé administratif,41.0
+92000.0,7.0,Ph.D.,8.5,PDG,38.0
+60000.0,6.0,Secondaire,6.0,Ouvrier agricole,25.0
+87000.0,8.0,Bachelor,8.2,Secrétaire,42.0
+115000.0,9.0,Master,8.4,Ingénieur agronome,44.0
+94000.0,7.0,Ph.D.,7.9,Employé administratif,34.0
