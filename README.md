@@ -6,4 +6,4 @@ Ce répertoire regroupe les travaux pratiques et projets des différents modules
 
 - **ML :** Travaux pratiques et cours du module de Machine Learning
 - **sad :** Travaux pratiques et cours du module de Statistiques et Analyse de Données
-- **IOT : ** Travaux pratiques et cours du module de Internet Of Objects
+- **IOT :** Travaux pratiques et cours du module de Internet Of Objects
